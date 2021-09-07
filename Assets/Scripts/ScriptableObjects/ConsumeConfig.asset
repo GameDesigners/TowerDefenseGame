@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d216fcb8f79c7d43851d7b7cbfa092e, type: 3}
+  m_Name: ConsumeConfig
+  m_EditorClassIdentifier: 
+  CreateTower:
+    LifeCount: 0
+    CoinCount: 100
+    WoodCount: 10
+    TurnCount: 0
+    EnemySpeed: 0
+    KValue: 0
+  UpgradeTowerToLevelTwo:
+    LifeCount: 0
+    CoinCount: 180
+    WoodCount: 20
+    TurnCount: 0
+    EnemySpeed: 0
+    KValue: 0
+  UpgradeTowerToLevelThree:
+    LifeCount: 0
+    CoinCount: 260
+    WoodCount: 30
+    TurnCount: 0
+    EnemySpeed: 0
+    KValue: 0
+  CutWoodConsume:
+    LifeCount: 0
+    CoinCount: 50
+    WoodCount: -5
+    TurnCount: 0
+    EnemySpeed: 0
+    KValue: 0
+  CreateTreeConsume:
+    LifeCount: 0
+    CoinCount: 50
+    WoodCount: 0
+    TurnCount: 0
+    EnemySpeed: 0
+    KValue: 0
+  CueAnimalSucc:
+    LifeCount: 0
+    CoinCount: -100
+    WoodCount: 0
+    TurnCount: 0
+    EnemySpeed: 0
+    KValue: 0
+  NextTurn:
+    LifeCount: 0
+    CoinCount: 0
+    WoodCount: 0
+    TurnCount: -1
+    EnemySpeed: 0
+    KValue: 0
